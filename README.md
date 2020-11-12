@@ -1,2 +1,2 @@
 # Python-Portfolio
-A portfolio of work done in Python
+A portfolio of work done in Python.
