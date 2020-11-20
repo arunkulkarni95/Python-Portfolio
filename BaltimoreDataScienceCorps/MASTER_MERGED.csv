@@ -1,0 +1,587 @@
+Neigh,CSA,Pop2010,Zip,MHINC,TotalCOVIDCases
+Downtown,Downtown/Seton Hill,6446,21201,57516.7,447.0
+Seton Hill,Downtown/Seton Hill,6446,21201,57516.7,447.0
+University of Maryland,Downtown/Seton Hill,6446,21201,57516.7,447.0
+Downtown West,Inner Harbor/Federal Hill,12855,21201,100932.2,447.0
+Federal Hill,Inner Harbor/Federal Hill,12855,21201,100932.2,447.0
+Inner Harbor,Inner Harbor/Federal Hill,12855,21201,100932.2,447.0
+Otterbein,Inner Harbor/Federal Hill,12855,21201,100932.2,447.0
+Ridgely's Delight,Inner Harbor/Federal Hill,12855,21201,100932.2,447.0
+Riverside,Inner Harbor/Federal Hill,12855,21201,100932.2,447.0
+Sharp-Leadenhall,Inner Harbor/Federal Hill,12855,21201,100932.2,447.0
+South Baltimore,Inner Harbor/Federal Hill,12855,21201,100932.2,447.0
+Stadium Area,Inner Harbor/Federal Hill,12855,21201,100932.2,447.0
+Bolton Hill,Midtown,15020,21201,52477.2,447.0
+Charles North,Midtown,15020,21201,52477.2,447.0
+Greenmount West,Midtown,15020,21201,52477.2,447.0
+Mid-Town Belvedere,Midtown,15020,21201,52477.2,447.0
+Mount Vernon,Midtown,15020,21201,52477.2,447.0
+Hollins Market,Poppleton/The Terraces/Hollins Market,5086,21201,20365.8,447.0
+Poppleton,Poppleton/The Terraces/Hollins Market,5086,21201,20365.8,447.0
+Druid Heights,Upton/Druid Heights,10342,21201,21359.0,447.0
+Heritage Crossing,Upton/Druid Heights,10342,21201,21359.0,447.0
+Madison Park,Upton/Druid Heights,10342,21201,21359.0,447.0
+Upton,Upton/Druid Heights,10342,21201,21359.0,447.0
+Barre Circle,Washington Village/Pigtown,5503,21201,48273.2,447.0
+Caroll-Camden Industrial Area,Washington Village/Pigtown,5503,21201,48273.2,447.0
+Carroll Park,Washington Village/Pigtown,5503,21201,48273.2,447.0
+Washington Village/Pigtown,Washington Village/Pigtown,5503,21201,48273.2,447.0
+Greenmount Cemetery,Greenmount East,8184,21202,27320.2,813.0
+Johnston Square,Greenmount East,8184,21202,27320.2,813.0
+Oliver,Greenmount East,8184,21202,27320.2,813.0
+Jonestown,Harbor East/Little Italy,5407,21202,44087.0,813.0
+Little Italy,Harbor East/Little Italy,5407,21202,44087.0,813.0
+Perkins Homes,Harbor East/Little Italy,5407,21202,44087.0,813.0
+Washington Hill,Harbor East/Little Italy,5407,21202,44087.0,813.0
+Downtown West,Inner Harbor/Federal Hill,12855,21202,100932.2,813.0
+Federal Hill,Inner Harbor/Federal Hill,12855,21202,100932.2,813.0
+Inner Harbor,Inner Harbor/Federal Hill,12855,21202,100932.2,813.0
+Otterbein,Inner Harbor/Federal Hill,12855,21202,100932.2,813.0
+Ridgely's Delight,Inner Harbor/Federal Hill,12855,21202,100932.2,813.0
+Riverside,Inner Harbor/Federal Hill,12855,21202,100932.2,813.0
+Sharp-Leadenhall,Inner Harbor/Federal Hill,12855,21202,100932.2,813.0
+South Baltimore,Inner Harbor/Federal Hill,12855,21202,100932.2,813.0
+Stadium Area,Inner Harbor/Federal Hill,12855,21202,100932.2,813.0
+Bolton Hill,Midtown,15020,21202,52477.2,813.0
+Charles North,Midtown,15020,21202,52477.2,813.0
+Greenmount West,Midtown,15020,21202,52477.2,813.0
+Mid-Town Belvedere,Midtown,15020,21202,52477.2,813.0
+Mount Vernon,Midtown,15020,21202,52477.2,813.0
+CARE,Oldtown/Middle East,10021,21202,19374.1,813.0
+Dunbar-Broadway,Oldtown/Middle East,10021,21202,19374.1,813.0
+Gay Street,Oldtown/Middle East,10021,21202,19374.1,813.0
+Middle East,Oldtown/Middle East,10021,21202,19374.1,813.0
+Oldtown,Oldtown/Middle East,10021,21202,19374.1,813.0
+Penn-Fallsway,Oldtown/Middle East,10021,21202,19374.1,813.0
+Pleasant View Gardens,Oldtown/Middle East,10021,21202,19374.1,813.0
+Pleasant View Gardens,Orangeville/E. Highlandtown,10021,21202,19374.1,813.0
+Armistead Gardens,Claremont/Armistead,8231,21205,34885.4,668.0
+Orchard Ridge,Claremont/Armistead,8231,21205,34885.4,668.0
+Greenmount Cemetery,Greenmount East,8184,21205,27320.2,668.0
+Johnston Square,Greenmount East,8184,21205,27320.2,668.0
+Oliver,Greenmount East,8184,21205,27320.2,668.0
+Madison-Eastend,Madison/East End,7781,21205,33528.7,668.0
+McElderry Park,Madison/East End,7781,21205,33528.7,668.0
+Milton-Montford,Madison/East End,7781,21205,33528.7,668.0
+CARE,Oldtown/Middle East,10021,21205,19374.1,668.0
+Dunbar-Broadway,Oldtown/Middle East,10021,21205,19374.1,668.0
+Gay Street,Oldtown/Middle East,10021,21205,19374.1,668.0
+Middle East,Oldtown/Middle East,10021,21205,19374.1,668.0
+Oldtown,Oldtown/Middle East,10021,21205,19374.1,668.0
+Penn-Fallsway,Oldtown/Middle East,10021,21205,19374.1,668.0
+Pleasant View Gardens,Oldtown/Middle East,10021,21205,19374.1,668.0
+Cedmont,Cedonia/Frankford,23557,21206,44159.5,1969.0
+Cedonia,Cedonia/Frankford,23557,21206,44159.5,1969.0
+Frankford,Cedonia/Frankford,23557,21206,44159.5,1969.0
+Parkside,Cedonia/Frankford,23557,21206,44159.5,1969.0
+Armistead Gardens,Claremont/Armistead,8231,21206,34885.4,1969.0
+Orchard Ridge,Claremont/Armistead,8231,21206,34885.4,1969.0
+Glenham-Belford,Hamilton,13002,21206,71690.9,1969.0
+Rosemont East,Hamilton,13002,21206,71690.9,1969.0
+Westfield,Hamilton,13002,21206,71690.9,1969.0
+Harford-Echodale/Perring Parkway,Harford/Echodale,16839,21206,56655.8,1969.0
+North Harford Road,Harford/Echodale,16839,21206,56655.8,1969.0
+Overlea,Harford/Echodale,16839,21206,56655.8,1969.0
+Taylor Heights,Harford/Echodale,16839,21206,56655.8,1969.0
+Arcadia,Lauraville,12273,21206,69536.6,1969.0
+Belair-Parkside,Lauraville,12273,21206,69536.6,1969.0
+Beverly Hills,Lauraville,12273,21206,69536.6,1969.0
+Lauraville,Lauraville,12273,21206,69536.6,1969.0
+Moravia-Walther,Lauraville,12273,21206,69536.6,1969.0
+Morgan Park,Lauraville,12273,21206,69536.6,1969.0
+Waltherson,Lauraville,12273,21206,69536.6,1969.0
+Dickeyville,Dickeyville/Franklintown,4101,21207,37847.5,1729.0
+Franklintown,Dickeyville/Franklintown,4101,21207,37847.5,1729.0
+Purnell,Dickeyville/Franklintown,4101,21207,37847.5,1729.0
+Wakefield,Dickeyville/Franklintown,4101,21207,37847.5,1729.0
+Concerned Citizens Of Forest Park,Forest Park/Walbrook,9849,21207,44764.3,1729.0
+Fairmont,Forest Park/Walbrook,9849,21207,44764.3,1729.0
+Forest Park,Forest Park/Walbrook,9849,21207,44764.3,1729.0
+Garwyn Oaks,Forest Park/Walbrook,9849,21207,44764.3,1729.0
+Mount Holly,Forest Park/Walbrook,9849,21207,44764.3,1729.0
+West Forest Park,Forest Park/Walbrook,9849,21207,44764.3,1729.0
+Windsor Hills,Forest Park/Walbrook,9849,21207,44764.3,1729.0
+Highlandtown,Howard Park/W. Arlington,7250,21207,88324.0,1729.0
+South Clifton Park,Cross Country/Cheswolde,9874,21208,31291.1,1384.0
+Windsor Hills,Glen-Fallstaff,14914,21208,42439.1,1384.0
+South Clifton Park,Cross Country/Cheswolde,9874,21209,31291.1,746.0
+Ashburton,Dorchester/Ashburton,11786,21209,45497.3,746.0
+Callaway-Garrison,Dorchester/Ashburton,11786,21209,45497.3,746.0
+Central Forest Park,Dorchester/Ashburton,11786,21209,45497.3,746.0
+Dolfield,Dorchester/Ashburton,11786,21209,45497.3,746.0
+Dorchester,Dorchester/Ashburton,11786,21209,45497.3,746.0
+East Arlington,Dorchester/Ashburton,11786,21209,45497.3,746.0
+Cross Keys,Greater Roland Park/Poplar Hill,7377,21209,117951.4,746.0
+Evergreen,Greater Roland Park/Poplar Hill,7377,21209,117951.4,746.0
+Keswick,Greater Roland Park/Poplar Hill,7377,21209,117951.4,746.0
+North Roland Park/Poplar Hill,Greater Roland Park/Poplar Hill,7377,21209,117951.4,746.0
+Roland Park,Greater Roland Park/Poplar Hill,7377,21209,117951.4,746.0
+Wyndhurst,Greater Roland Park/Poplar Hill,7377,21209,117951.4,746.0
+Hampden,Medfield/Hampden/Woodberry/Remington,17388,21209,68526.0,746.0
+Hoes Heights,Medfield/Hampden/Woodberry/Remington,17388,21209,68526.0,746.0
+Jones Falls Area,Medfield/Hampden/Woodberry/Remington,17388,21209,68526.0,746.0
+Medfield,Medfield/Hampden/Woodberry/Remington,17388,21209,68526.0,746.0
+Remington,Medfield/Hampden/Woodberry/Remington,17388,21209,68526.0,746.0
+Woodberry,Medfield/Hampden/Woodberry/Remington,17388,21209,68526.0,746.0
+Wyman Park,Medfield/Hampden/Woodberry/Remington,17388,21209,68526.0,746.0
+Coldspring,Mt. Washington/Coldspring,5168,21209,84848.1,746.0
+Mt. Washington,Mt. Washington/Coldspring,5168,21209,84848.1,746.0
+Sabina-Mattfeldt,Mt. Washington/Coldspring,5168,21209,84848.1,746.0
+Arlington,Pimlico/Arlington/Hilltop,11816,21209,32189.6,746.0
+Central Park Heights,Pimlico/Arlington/Hilltop,11816,21209,32189.6,746.0
+Cylburn,Pimlico/Arlington/Hilltop,11816,21209,32189.6,746.0
+Langston Hughes,Pimlico/Arlington/Hilltop,11816,21209,32189.6,746.0
+Levindale,Pimlico/Arlington/Hilltop,11816,21209,32189.6,746.0
+Pimlico Good Neighbors,Pimlico/Arlington/Hilltop,11816,21209,32189.6,746.0
+Cross Keys,Greater Roland Park/Poplar Hill,7377,21210,117951.4,110.0
+Evergreen,Greater Roland Park/Poplar Hill,7377,21210,117951.4,110.0
+Keswick,Greater Roland Park/Poplar Hill,7377,21210,117951.4,110.0
+North Roland Park/Poplar Hill,Greater Roland Park/Poplar Hill,7377,21210,117951.4,110.0
+Roland Park,Greater Roland Park/Poplar Hill,7377,21210,117951.4,110.0
+Wyndhurst,Greater Roland Park/Poplar Hill,7377,21210,117951.4,110.0
+Hampden,Medfield/Hampden/Woodberry/Remington,17388,21210,68526.0,110.0
+Hoes Heights,Medfield/Hampden/Woodberry/Remington,17388,21210,68526.0,110.0
+Jones Falls Area,Medfield/Hampden/Woodberry/Remington,17388,21210,68526.0,110.0
+Medfield,Medfield/Hampden/Woodberry/Remington,17388,21210,68526.0,110.0
+Remington,Medfield/Hampden/Woodberry/Remington,17388,21210,68526.0,110.0
+Woodberry,Medfield/Hampden/Woodberry/Remington,17388,21210,68526.0,110.0
+Wyman Park,Medfield/Hampden/Woodberry/Remington,17388,21210,68526.0,110.0
+Sabina-Mattfeldt,N. Baltimore/Guilford/Homeland,5168,21210,84848.1,110.0
+Abell,Greater Charles Village/Barclay,16391,21211,42852.5,269.0
+Barclay,Greater Charles Village/Barclay,16391,21211,42852.5,269.0
+Charles Village,Greater Charles Village/Barclay,16391,21211,42852.5,269.0
+Harwood,Greater Charles Village/Barclay,16391,21211,42852.5,269.0
+Johns Hopkins Homewood,Greater Charles Village/Barclay,16391,21211,42852.5,269.0
+Oakenshawe,Greater Charles Village/Barclay,16391,21211,42852.5,269.0
+Old Goucher,Greater Charles Village/Barclay,16391,21211,42852.5,269.0
+Hampden,Medfield/Hampden/Woodberry/Remington,17388,21211,68526.0,269.0
+Hoes Heights,Medfield/Hampden/Woodberry/Remington,17388,21211,68526.0,269.0
+Jones Falls Area,Medfield/Hampden/Woodberry/Remington,17388,21211,68526.0,269.0
+Medfield,Medfield/Hampden/Woodberry/Remington,17388,21211,68526.0,269.0
+Remington,Medfield/Hampden/Woodberry/Remington,17388,21211,68526.0,269.0
+Woodberry,Medfield/Hampden/Woodberry/Remington,17388,21211,68526.0,269.0
+Wyman Park,Medfield/Hampden/Woodberry/Remington,17388,21211,68526.0,269.0
+Greenspring,Southern Park Heights,13284,21211,24824.1,269.0
+Lucille Park,Southern Park Heights,13284,21211,24824.1,269.0
+Park Circle,Southern Park Heights,13284,21211,24824.1,269.0
+Parklane,Southern Park Heights,13284,21211,24824.1,269.0
+Towanda-Grantley,Southern Park Heights,13284,21211,24824.1,269.0
+Belvedere,Chinquapin Park/Belvedere,7756,21212,55713.7,806.0
+Cameron Village,Chinquapin Park/Belvedere,7756,21212,55713.7,806.0
+Chinquapin Park,Chinquapin Park/Belvedere,7756,21212,55713.7,806.0
+Evesham Park,Chinquapin Park/Belvedere,7756,21212,55713.7,806.0
+Lake Walker,Chinquapin Park/Belvedere,7756,21212,55713.7,806.0
+Mid-Govans,Chinquapin Park/Belvedere,7756,21212,55713.7,806.0
+Kenilworth Park,Greater Govans,10681,21212,42666.8,806.0
+Pen Lucy,Greater Govans,10681,21212,42666.8,806.0
+Richnor Springs,Greater Govans,10681,21212,42666.8,806.0
+Wilson Park,Greater Govans,10681,21212,42666.8,806.0
+Winston-Govans,Greater Govans,10681,21212,42666.8,806.0
+Woodbourne-McCabe,Greater Govans,10681,21212,42666.8,806.0
+Wrenlane,Greater Govans,10681,21212,42666.8,806.0
+Sabina-Mattfeldt,N. Baltimore/Guilford/Homeland,5168,21212,84848.1,806.0
+Belair-Edison,Belair-Edison,17416,21213,42633.6,1089.0
+Clifton Park,Belair-Edison,17416,21213,42633.6,1089.0
+Four By Four,Belair-Edison,17416,21213,42633.6,1089.0
+Herring Run Park,Belair-Edison,17416,21213,42633.6,1089.0
+Mayfield,Belair-Edison,17416,21213,42633.6,1089.0
+Armistead Gardens,Claremont/Armistead,8231,21213,34885.4,1089.0
+Orchard Ridge,Claremont/Armistead,8231,21213,34885.4,1089.0
+Berea,Clifton-Berea,9874,21213,31291.1,1089.0
+Biddle Street,Clifton-Berea,9874,21213,31291.1,1089.0
+Broadway East,Clifton-Berea,9874,21213,31291.1,1089.0
+Darley Park,Clifton-Berea,9874,21213,31291.1,1089.0
+South Clifton Park,Clifton-Berea,9874,21213,31291.1,1089.0
+Greenmount Cemetery,Greenmount East,8184,21213,27320.2,1089.0
+Johnston Square,Greenmount East,8184,21213,27320.2,1089.0
+Oliver,Greenmount East,8184,21213,27320.2,1089.0
+Glenham-Belford,Hamilton,13002,21214,71690.9,593.0
+Rosemont East,Hamilton,13002,21214,71690.9,593.0
+Westfield,Hamilton,13002,21214,71690.9,593.0
+Harford-Echodale/Perring Parkway,Harford/Echodale,16839,21214,56655.8,593.0
+North Harford Road,Harford/Echodale,16839,21214,56655.8,593.0
+Overlea,Harford/Echodale,16839,21214,56655.8,593.0
+Taylor Heights,Harford/Echodale,16839,21214,56655.8,593.0
+Brewers Hill,Highlandtown,7250,21214,88324.0,593.0
+Highlandtown,Highlandtown,7250,21214,88324.0,593.0
+Arcadia,Lauraville,12273,21214,69536.6,593.0
+Belair-Parkside,Lauraville,12273,21214,69536.6,593.0
+Beverly Hills,Lauraville,12273,21214,69536.6,593.0
+Lauraville,Lauraville,12273,21214,69536.6,593.0
+Moravia-Walther,Lauraville,12273,21214,69536.6,593.0
+Morgan Park,Lauraville,12273,21214,69536.6,593.0
+Waltherson,Lauraville,12273,21214,69536.6,593.0
+Hillen,Northwood,16643,21214,56197.2,593.0
+Montebello,Northwood,16643,21214,56197.2,593.0
+Morgan State University,Northwood,16643,21214,56197.2,593.0
+New Northwood,Northwood,16643,21214,56197.2,593.0
+Original Northwood,Northwood,16643,21214,56197.2,593.0
+Perring Loch,Northwood,16643,21214,56197.2,593.0
+Stonewood-Pentwood-Winston,Northwood,16643,21214,56197.2,593.0
+South Clifton Park,Cross Country/Cheswolde,9874,21215,31291.1,2207.0
+Cheswolde,Cross-Country/Cheswolde,13034,21215,55673.6,2207.0
+Cross Country,Cross-Country/Cheswolde,13034,21215,55673.6,2207.0
+Ashburton,Dorchester/Ashburton,11786,21215,45497.3,2207.0
+Callaway-Garrison,Dorchester/Ashburton,11786,21215,45497.3,2207.0
+Central Forest Park,Dorchester/Ashburton,11786,21215,45497.3,2207.0
+Dolfield,Dorchester/Ashburton,11786,21215,45497.3,2207.0
+Dorchester,Dorchester/Ashburton,11786,21215,45497.3,2207.0
+East Arlington,Dorchester/Ashburton,11786,21215,45497.3,2207.0
+Windsor Hills,Glen-Fallstaff,14914,21215,42439.1,2207.0
+Fallstaff,Glen-Falstaff,14914,21215,42439.1,2207.0
+Glen,Glen-Falstaff,14914,21215,42439.1,2207.0
+Reisterstown Station,Glen-Falstaff,14914,21215,42439.1,2207.0
+Woodmere,Glen-Falstaff,14914,21215,42439.1,2207.0
+Burleith-Leighton,Greater Mondawmin,9322,21215,36968.8,2207.0
+Hanlon-Longwood,Greater Mondawmin,9322,21215,36968.8,2207.0
+Liberty Square,Greater Mondawmin,9322,21215,36968.8,2207.0
+Mondawmin,Greater Mondawmin,9322,21215,36968.8,2207.0
+Panway/Braddish Avenue,Greater Mondawmin,9322,21215,36968.8,2207.0
+Walbrook,Greater Mondawmin,9322,21215,36968.8,2207.0
+Highlandtown,Howard Park/W. Arlington,7250,21215,88324.0,2207.0
+Forest Park Golf Course,Howard Park/West Arlington,10873,21215,54999.5,2207.0
+Grove Park,Howard Park/West Arlington,10873,21215,54999.5,2207.0
+Howard Park,Howard Park/West Arlington,10873,21215,54999.5,2207.0
+Seton Business Park,Howard Park/West Arlington,10873,21215,54999.5,2207.0
+West Arlington,Howard Park/West Arlington,10873,21215,54999.5,2207.0
+Druid Hill Park,Penn North/Reservoir Hill,9668,21215,35011.5,2207.0
+Parkview/Woodbrook,Penn North/Reservoir Hill,9668,21215,35011.5,2207.0
+Penn North,Penn North/Reservoir Hill,9668,21215,35011.5,2207.0
+Reservoir Hill,Penn North/Reservoir Hill,9668,21215,35011.5,2207.0
+Arlington,Pimlico/Arlington/Hilltop,11816,21215,32189.6,2207.0
+Central Park Heights,Pimlico/Arlington/Hilltop,11816,21215,32189.6,2207.0
+Cylburn,Pimlico/Arlington/Hilltop,11816,21215,32189.6,2207.0
+Langston Hughes,Pimlico/Arlington/Hilltop,11816,21215,32189.6,2207.0
+Levindale,Pimlico/Arlington/Hilltop,11816,21215,32189.6,2207.0
+Pimlico Good Neighbors,Pimlico/Arlington/Hilltop,11816,21215,32189.6,2207.0
+Greenspring,Southern Park Heights,13284,21215,24824.1,2207.0
+Lucille Park,Southern Park Heights,13284,21215,24824.1,2207.0
+Park Circle,Southern Park Heights,13284,21215,24824.1,2207.0
+Parklane,Southern Park Heights,13284,21215,24824.1,2207.0
+Towanda-Grantley,Southern Park Heights,13284,21215,24824.1,2207.0
+Concerned Citizens Of Forest Park,Forest Park/Walbrook,9849,21216,44764.3,893.0
+Fairmont,Forest Park/Walbrook,9849,21216,44764.3,893.0
+Forest Park,Forest Park/Walbrook,9849,21216,44764.3,893.0
+Garwyn Oaks,Forest Park/Walbrook,9849,21216,44764.3,893.0
+Mount Holly,Forest Park/Walbrook,9849,21216,44764.3,893.0
+West Forest Park,Forest Park/Walbrook,9849,21216,44764.3,893.0
+Windsor Hills,Forest Park/Walbrook,9849,21216,44764.3,893.0
+Burleith-Leighton,Greater Mondawmin,9322,21216,36968.8,893.0
+Hanlon-Longwood,Greater Mondawmin,9322,21216,36968.8,893.0
+Liberty Square,Greater Mondawmin,9322,21216,36968.8,893.0
+Mondawmin,Greater Mondawmin,9322,21216,36968.8,893.0
+Panway/Braddish Avenue,Greater Mondawmin,9322,21216,36968.8,893.0
+Walbrook,Greater Mondawmin,9322,21216,36968.8,893.0
+Bridgeview/Greenlawn,Greater Rosemont,19259,21216,36379.8,893.0
+Coppin Heights/Ash-Co-East,Greater Rosemont,19259,21216,36379.8,893.0
+Evergreen Lawn,Greater Rosemont,19259,21216,36379.8,893.0
+Franklintown Road,Greater Rosemont,19259,21216,36379.8,893.0
+Mosher,Greater Rosemont,19259,21216,36379.8,893.0
+Northwest Community Action,Greater Rosemont,19259,21216,36379.8,893.0
+Rosemont,Greater Rosemont,19259,21216,36379.8,893.0
+Rosemont Homewoners/Tenants,Greater Rosemont,19259,21216,36379.8,893.0
+Winchester,Greater Rosemont,19259,21216,36379.8,893.0
+Burleith-Leighton,Greater Mondawmin,9322,21217,36968.8,879.0
+Hanlon-Longwood,Greater Mondawmin,9322,21217,36968.8,879.0
+Liberty Square,Greater Mondawmin,9322,21217,36968.8,879.0
+Mondawmin,Greater Mondawmin,9322,21217,36968.8,879.0
+Panway/Braddish Avenue,Greater Mondawmin,9322,21217,36968.8,879.0
+Walbrook,Greater Mondawmin,9322,21217,36968.8,879.0
+Bridgeview/Greenlawn,Greater Rosemont,19259,21217,36379.8,879.0
+Coppin Heights/Ash-Co-East,Greater Rosemont,19259,21217,36379.8,879.0
+Evergreen Lawn,Greater Rosemont,19259,21217,36379.8,879.0
+Franklintown Road,Greater Rosemont,19259,21217,36379.8,879.0
+Mosher,Greater Rosemont,19259,21217,36379.8,879.0
+Northwest Community Action,Greater Rosemont,19259,21217,36379.8,879.0
+Rosemont,Greater Rosemont,19259,21217,36379.8,879.0
+Rosemont Homewoners/Tenants,Greater Rosemont,19259,21217,36379.8,879.0
+Winchester,Greater Rosemont,19259,21217,36379.8,879.0
+Hampden,Medfield/Hampden/Woodberry/Remington,17388,21217,68526.0,879.0
+Hoes Heights,Medfield/Hampden/Woodberry/Remington,17388,21217,68526.0,879.0
+Jones Falls Area,Medfield/Hampden/Woodberry/Remington,17388,21217,68526.0,879.0
+Medfield,Medfield/Hampden/Woodberry/Remington,17388,21217,68526.0,879.0
+Remington,Medfield/Hampden/Woodberry/Remington,17388,21217,68526.0,879.0
+Woodberry,Medfield/Hampden/Woodberry/Remington,17388,21217,68526.0,879.0
+Wyman Park,Medfield/Hampden/Woodberry/Remington,17388,21217,68526.0,879.0
+Bolton Hill,Midtown,15020,21217,52477.2,879.0
+Charles North,Midtown,15020,21217,52477.2,879.0
+Greenmount West,Midtown,15020,21217,52477.2,879.0
+Mid-Town Belvedere,Midtown,15020,21217,52477.2,879.0
+Mount Vernon,Midtown,15020,21217,52477.2,879.0
+Druid Hill Park,Penn North/Reservoir Hill,9668,21217,35011.5,879.0
+Parkview/Woodbrook,Penn North/Reservoir Hill,9668,21217,35011.5,879.0
+Penn North,Penn North/Reservoir Hill,9668,21217,35011.5,879.0
+Reservoir Hill,Penn North/Reservoir Hill,9668,21217,35011.5,879.0
+Easterwood,Sandtown-Winchester/Harlem Park,14896,21217,25972.5,879.0
+Harlem Park,Sandtown-Winchester/Harlem Park,14896,21217,25972.5,879.0
+Midtown-Edmondson,Sandtown-Winchester/Harlem Park,14896,21217,25972.5,879.0
+Sandtown-Winchester,Sandtown-Winchester/Harlem Park,14896,21217,25972.5,879.0
+Druid Heights,Upton/Druid Heights,10342,21217,21359.0,879.0
+Heritage Crossing,Upton/Druid Heights,10342,21217,21359.0,879.0
+Madison Park,Upton/Druid Heights,10342,21217,21359.0,879.0
+Upton,Upton/Druid Heights,10342,21217,21359.0,879.0
+Belair-Edison,Belair-Edison,17416,21218,42633.6,1244.0
+Clifton Park,Belair-Edison,17416,21218,42633.6,1244.0
+Four By Four,Belair-Edison,17416,21218,42633.6,1244.0
+Herring Run Park,Belair-Edison,17416,21218,42633.6,1244.0
+Mayfield,Belair-Edison,17416,21218,42633.6,1244.0
+Abell,Greater Charles Village/Barclay,16391,21218,42852.5,1244.0
+Barclay,Greater Charles Village/Barclay,16391,21218,42852.5,1244.0
+Charles Village,Greater Charles Village/Barclay,16391,21218,42852.5,1244.0
+Harwood,Greater Charles Village/Barclay,16391,21218,42852.5,1244.0
+Johns Hopkins Homewood,Greater Charles Village/Barclay,16391,21218,42852.5,1244.0
+Oakenshawe,Greater Charles Village/Barclay,16391,21218,42852.5,1244.0
+Old Goucher,Greater Charles Village/Barclay,16391,21218,42852.5,1244.0
+Kenilworth Park,Greater Govans,10681,21218,42666.8,1244.0
+Pen Lucy,Greater Govans,10681,21218,42666.8,1244.0
+Richnor Springs,Greater Govans,10681,21218,42666.8,1244.0
+Wilson Park,Greater Govans,10681,21218,42666.8,1244.0
+Winston-Govans,Greater Govans,10681,21218,42666.8,1244.0
+Woodbourne-McCabe,Greater Govans,10681,21218,42666.8,1244.0
+Wrenlane,Greater Govans,10681,21218,42666.8,1244.0
+Coldstream Homestead Montebello,Midway/Coldstream,9624,21218,34520.1,1244.0
+East Baltimore Midway,Midway/Coldstream,9624,21218,34520.1,1244.0
+Sabina-Mattfeldt,N. Baltimore/Guilford/Homeland,5168,21218,84848.1,1244.0
+Bellona-Gittings,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Blythewood,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Cedarcroft,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Guilford,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Homeland,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Kernewood,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Lake Evesham,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Loyola/Notre Dame,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Radnor-Winston,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Rosebank,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+The Orchards,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Tuscany-Canterbury,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Villages Of Homeland,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+York-Homeland,North Baltimore/Guilford/Homeland,17464,21218,98094.9,1244.0
+Hillen,Northwood,16643,21218,56197.2,1244.0
+Montebello,Northwood,16643,21218,56197.2,1244.0
+Morgan State University,Northwood,16643,21218,56197.2,1244.0
+New Northwood,Northwood,16643,21218,56197.2,1244.0
+Original Northwood,Northwood,16643,21218,56197.2,1244.0
+Perring Loch,Northwood,16643,21218,56197.2,1244.0
+Stonewood-Pentwood-Winston,Northwood,16643,21218,56197.2,1244.0
+Better Waverly,The Waverlies,7753,21218,38569.1,1244.0
+Ednor Gardens-Lakeside,The Waverlies,7753,21218,38569.1,1244.0
+Waverly,The Waverlies,7753,21218,38569.1,1244.0
+Canton Industrial Area,Southeastern,6260,21222,36666.3,1990.0
+Dundalk Marine Terminal,Southeastern,6260,21222,36666.3,1990.0
+Graceland Park,Southeastern,6260,21222,36666.3,1990.0
+Holabird Industrial Park,Southeastern,6260,21222,36666.3,1990.0
+Medford,Southeastern,6260,21222,36666.3,1990.0
+O'Donnell Heights,Southeastern,6260,21222,36666.3,1990.0
+Saint Helena,Southeastern,6260,21222,36666.3,1990.0
+Spring Garden Industrial Area,Southeastern,6260,21222,36666.3,1990.0
+Allendale,Allendale/Irvington/South Hilton,16217,21223,38535.6,762.0
+Carroll-South Hilton,Allendale/Irvington/South Hilton,16217,21223,38535.6,762.0
+Gwynns Falls,Allendale/Irvington/South Hilton,16217,21223,38535.6,762.0
+Irvington,Allendale/Irvington/South Hilton,16217,21223,38535.6,762.0
+Lower Edmondson Village,Allendale/Irvington/South Hilton,16217,21223,38535.6,762.0
+Saint Josephs,Allendale/Irvington/South Hilton,16217,21223,38535.6,762.0
+Uplands,Allendale/Irvington/South Hilton,16217,21223,38535.6,762.0
+Yale Heights,Allendale/Irvington/South Hilton,16217,21223,38535.6,762.0
+Bridgeview/Greenlawn,Greater Rosemont,19259,21223,36379.8,762.0
+Coppin Heights/Ash-Co-East,Greater Rosemont,19259,21223,36379.8,762.0
+Evergreen Lawn,Greater Rosemont,19259,21223,36379.8,762.0
+Franklintown Road,Greater Rosemont,19259,21223,36379.8,762.0
+Mosher,Greater Rosemont,19259,21223,36379.8,762.0
+Northwest Community Action,Greater Rosemont,19259,21223,36379.8,762.0
+Rosemont,Greater Rosemont,19259,21223,36379.8,762.0
+Rosemont Homewoners/Tenants,Greater Rosemont,19259,21223,36379.8,762.0
+Winchester,Greater Rosemont,19259,21223,36379.8,762.0
+Hollins Market,Poppleton/The Terraces/Hollins Market,5086,21223,20365.8,762.0
+Poppleton,Poppleton/The Terraces/Hollins Market,5086,21223,20365.8,762.0
+Easterwood,Sandtown-Winchester/Harlem Park,14896,21223,25972.5,762.0
+Harlem Park,Sandtown-Winchester/Harlem Park,14896,21223,25972.5,762.0
+Midtown-Edmondson,Sandtown-Winchester/Harlem Park,14896,21223,25972.5,762.0
+Sandtown-Winchester,Sandtown-Winchester/Harlem Park,14896,21223,25972.5,762.0
+Booth-Boyd,Southwest Baltimore,17885,21223,28149.5,762.0
+Carrollton Ridge,Southwest Baltimore,17885,21223,28149.5,762.0
+Franklin Square,Southwest Baltimore,17885,21223,28149.5,762.0
+Millhill,Southwest Baltimore,17885,21223,28149.5,762.0
+New Southwest/Mt. Clare,Southwest Baltimore,17885,21223,28149.5,762.0
+Penrose/Fayette Street Outreach,Southwest Baltimore,17885,21223,28149.5,762.0
+Shipley Hill,Southwest Baltimore,17885,21223,28149.5,762.0
+Union Square,Southwest Baltimore,17885,21223,28149.5,762.0
+Barre Circle,Washington Village/Pigtown,5503,21223,48273.2,762.0
+Caroll-Camden Industrial Area,Washington Village/Pigtown,5503,21223,48273.2,762.0
+Carroll Park,Washington Village/Pigtown,5503,21223,48273.2,762.0
+Washington Village/Pigtown,Washington Village/Pigtown,5503,21223,48273.2,762.0
+Canton,Canton,8100,21224,116911.1,2563.0
+Patterson Park,Canton,8100,21224,116911.1,2563.0
+Pleasant View Gardens,Orangeville/E. Highlandtown,10021,21224,19374.1,2563.0
+Ellwood Park/Monument,Patterson Park North & East,14549,21224,69836.2,2563.0
+Patterson Park Neighborhood,Patterson Park North & East,14549,21224,69836.2,2563.0
+Patterson Place,Patterson Park North & East,14549,21224,69836.2,2563.0
+Canton Industrial Area,Southeastern,6260,21224,36666.3,2563.0
+Dundalk Marine Terminal,Southeastern,6260,21224,36666.3,2563.0
+Graceland Park,Southeastern,6260,21224,36666.3,2563.0
+Holabird Industrial Park,Southeastern,6260,21224,36666.3,2563.0
+Medford,Southeastern,6260,21224,36666.3,2563.0
+O'Donnell Heights,Southeastern,6260,21224,36666.3,2563.0
+Saint Helena,Southeastern,6260,21224,36666.3,2563.0
+Spring Garden Industrial Area,Southeastern,6260,21224,36666.3,2563.0
+Brooklyn,Brooklyn/Curtis Bay/Hawkins Point,14243,21225,39936.5,1032.0
+Curtis Bay,Brooklyn/Curtis Bay/Hawkins Point,14243,21225,39936.5,1032.0
+Curtis Bay Industrial Area,Brooklyn/Curtis Bay/Hawkins Point,14243,21225,39936.5,1032.0
+Fairfield Area,Brooklyn/Curtis Bay/Hawkins Point,14243,21225,39936.5,1032.0
+Hawkins Point,Brooklyn/Curtis Bay/Hawkins Point,14243,21225,39936.5,1032.0
+Cherry Hill,Cherry Hill,8202,21225,25132.3,1032.0
+Middle Branch/Reedbird Parks,Cherry Hill,8202,21225,25132.3,1032.0
+Lakeland,Westport/Mt. Winans/Lakeland,7119,21225,36974.4,1032.0
+Mt. Winans,Westport/Mt. Winans/Lakeland,7119,21225,36974.4,1032.0
+Westport,Westport/Mt. Winans/Lakeland,7119,21225,36974.4,1032.0
+Brooklyn,Brooklyn/Curtis Bay/Hawkins Point,14243,21226,39936.5,162.0
+Curtis Bay,Brooklyn/Curtis Bay/Hawkins Point,14243,21226,39936.5,162.0
+Curtis Bay Industrial Area,Brooklyn/Curtis Bay/Hawkins Point,14243,21226,39936.5,162.0
+Fairfield Area,Brooklyn/Curtis Bay/Hawkins Point,14243,21226,39936.5,162.0
+Hawkins Point,Brooklyn/Curtis Bay/Hawkins Point,14243,21226,39936.5,162.0
+Morrell Park,Morrell Park/Violetville,8964,21227,42993.0,1136.0
+Oaklee,Morrell Park/Violetville,8964,21227,42993.0,1136.0
+Saint Agnes,Morrell Park/Violetville,8964,21227,42993.0,1136.0
+Saint Paul,Morrell Park/Violetville,8964,21227,42993.0,1136.0
+Violetville,Morrell Park/Violetville,8964,21227,42993.0,1136.0
+Wilhelm Park,Morrell Park/Violetville,8964,21227,42993.0,1136.0
+Lakeland,Westport/Mt. Winans/Lakeland,7119,21227,36974.4,1136.0
+Mt. Winans,Westport/Mt. Winans/Lakeland,7119,21227,36974.4,1136.0
+Westport,Westport/Mt. Winans/Lakeland,7119,21227,36974.4,1136.0
+Beechfield,Beechfield/Ten Hills/West Hills,12264,21228,58055.3,1596.0
+Hunting Ridge,Beechfield/Ten Hills/West Hills,12264,21228,58055.3,1596.0
+Ten Hills,Beechfield/Ten Hills/West Hills,12264,21228,58055.3,1596.0
+Tremont,Beechfield/Ten Hills/West Hills,12264,21228,58055.3,1596.0
+West Hills,Beechfield/Ten Hills/West Hills,12264,21228,58055.3,1596.0
+Westgate,Beechfield/Ten Hills/West Hills,12264,21228,58055.3,1596.0
+Allendale,Allendale/Irvington/South Hilton,16217,21229,38535.6,1593.0
+Carroll-South Hilton,Allendale/Irvington/South Hilton,16217,21229,38535.6,1593.0
+Gwynns Falls,Allendale/Irvington/South Hilton,16217,21229,38535.6,1593.0
+Irvington,Allendale/Irvington/South Hilton,16217,21229,38535.6,1593.0
+Lower Edmondson Village,Allendale/Irvington/South Hilton,16217,21229,38535.6,1593.0
+Saint Josephs,Allendale/Irvington/South Hilton,16217,21229,38535.6,1593.0
+Uplands,Allendale/Irvington/South Hilton,16217,21229,38535.6,1593.0
+Yale Heights,Allendale/Irvington/South Hilton,16217,21229,38535.6,1593.0
+Yale Heights,Baltimore City,16217,21229,48840.0,1593.0
+Beechfield,Beechfield/Ten Hills/West Hills,12264,21229,58055.3,1593.0
+Hunting Ridge,Beechfield/Ten Hills/West Hills,12264,21229,58055.3,1593.0
+Ten Hills,Beechfield/Ten Hills/West Hills,12264,21229,58055.3,1593.0
+Tremont,Beechfield/Ten Hills/West Hills,12264,21229,58055.3,1593.0
+West Hills,Beechfield/Ten Hills/West Hills,12264,21229,58055.3,1593.0
+Westgate,Beechfield/Ten Hills/West Hills,12264,21229,58055.3,1593.0
+Edgewood,Edmondson Village,7900,21229,43809.8,1593.0
+Edmondson Village,Edmondson Village,7900,21229,43809.8,1593.0
+Gwynns Falls/Leakin Park,Edmondson Village,7900,21229,43809.8,1593.0
+Rognel Heights,Edmondson Village,7900,21229,43809.8,1593.0
+Morrell Park,Morrell Park/Violetville,8964,21229,42993.0,1593.0
+Oaklee,Morrell Park/Violetville,8964,21229,42993.0,1593.0
+Saint Agnes,Morrell Park/Violetville,8964,21229,42993.0,1593.0
+Saint Paul,Morrell Park/Violetville,8964,21229,42993.0,1593.0
+Violetville,Morrell Park/Violetville,8964,21229,42993.0,1593.0
+Wilhelm Park,Morrell Park/Violetville,8964,21229,42993.0,1593.0
+Cherry Hill,Cherry Hill,8202,21230,25132.3,1242.0
+Middle Branch/Reedbird Parks,Cherry Hill,8202,21230,25132.3,1242.0
+Downtown West,Inner Harbor/Federal Hill,12855,21230,100932.2,1242.0
+Federal Hill,Inner Harbor/Federal Hill,12855,21230,100932.2,1242.0
+Inner Harbor,Inner Harbor/Federal Hill,12855,21230,100932.2,1242.0
+Otterbein,Inner Harbor/Federal Hill,12855,21230,100932.2,1242.0
+Ridgely's Delight,Inner Harbor/Federal Hill,12855,21230,100932.2,1242.0
+Riverside,Inner Harbor/Federal Hill,12855,21230,100932.2,1242.0
+Sharp-Leadenhall,Inner Harbor/Federal Hill,12855,21230,100932.2,1242.0
+South Baltimore,Inner Harbor/Federal Hill,12855,21230,100932.2,1242.0
+Stadium Area,Inner Harbor/Federal Hill,12855,21230,100932.2,1242.0
+Morrell Park,Morrell Park/Violetville,8964,21230,42993.0,1242.0
+Oaklee,Morrell Park/Violetville,8964,21230,42993.0,1242.0
+Saint Agnes,Morrell Park/Violetville,8964,21230,42993.0,1242.0
+Saint Paul,Morrell Park/Violetville,8964,21230,42993.0,1242.0
+Violetville,Morrell Park/Violetville,8964,21230,42993.0,1242.0
+Wilhelm Park,Morrell Park/Violetville,8964,21230,42993.0,1242.0
+Wilhelm Park,Mount Washington/Coldspring,5168,21230,84848.1,1242.0
+Locust Point,South Baltimore,6406,21230,114107.3,1242.0
+Locust Point Industrial Area,South Baltimore,6406,21230,114107.3,1242.0
+Port Covington,South Baltimore,6406,21230,114107.3,1242.0
+Barre Circle,Washington Village/Pigtown,5503,21230,48273.2,1242.0
+Caroll-Camden Industrial Area,Washington Village/Pigtown,5503,21230,48273.2,1242.0
+Carroll Park,Washington Village/Pigtown,5503,21230,48273.2,1242.0
+Washington Village/Pigtown,Washington Village/Pigtown,5503,21230,48273.2,1242.0
+Washington Village/Pigtown,Westport/Mount Winans/Lakeland,7119,21230,36974.4,1242.0
+Lakeland,Westport/Mt. Winans/Lakeland,7119,21230,36974.4,1242.0
+Mt. Winans,Westport/Mt. Winans/Lakeland,7119,21230,36974.4,1242.0
+Westport,Westport/Mt. Winans/Lakeland,7119,21230,36974.4,1242.0
+Canton,Canton,8100,21231,116911.1,498.0
+Patterson Park,Canton,8100,21231,116911.1,498.0
+Butcher's Hill,Fells Point,9039,21231,98981.9,498.0
+Fells Point,Fells Point,9039,21231,98981.9,498.0
+Upper Fells Point,Fells Point,9039,21231,98981.9,498.0
+Jonestown,Harbor East/Little Italy,5407,21231,44087.0,498.0
+Little Italy,Harbor East/Little Italy,5407,21231,44087.0,498.0
+Perkins Homes,Harbor East/Little Italy,5407,21231,44087.0,498.0
+Washington Hill,Harbor East/Little Italy,5407,21231,44087.0,498.0
+CARE,Oldtown/Middle East,10021,21231,19374.1,498.0
+Dunbar-Broadway,Oldtown/Middle East,10021,21231,19374.1,498.0
+Gay Street,Oldtown/Middle East,10021,21231,19374.1,498.0
+Middle East,Oldtown/Middle East,10021,21231,19374.1,498.0
+Oldtown,Oldtown/Middle East,10021,21231,19374.1,498.0
+Penn-Fallsway,Oldtown/Middle East,10021,21231,19374.1,498.0
+Pleasant View Gardens,Oldtown/Middle East,10021,21231,19374.1,498.0
+Ellwood Park/Monument,Patterson Park North & East,14549,21231,69836.2,498.0
+Patterson Park Neighborhood,Patterson Park North & East,14549,21231,69836.2,498.0
+Patterson Place,Patterson Park North & East,14549,21231,69836.2,498.0
+Harford-Echodale/Perring Parkway,Harford/Echodale,16839,21234,56655.8,2022.0
+North Harford Road,Harford/Echodale,16839,21234,56655.8,2022.0
+Overlea,Harford/Echodale,16839,21234,56655.8,2022.0
+Taylor Heights,Harford/Echodale,16839,21234,56655.8,2022.0
+Glen Oaks,Loch Raven,15311,21234,52078.0,2022.0
+Idlewood,Loch Raven,15311,21234,52078.0,2022.0
+Loch Raven,Loch Raven,15311,21234,52078.0,2022.0
+Mt. Pleasant Park,Loch Raven,15311,21234,52078.0,2022.0
+Ramblewood,Loch Raven,15311,21234,52078.0,2022.0
+Woodbourne Heights,Loch Raven,15311,21234,52078.0,2022.0
+Harford-Echodale/Perring Parkway,Harford/Echodale,16839,21236,56655.8,1042.0
+North Harford Road,Harford/Echodale,16839,21236,56655.8,1042.0
+Overlea,Harford/Echodale,16839,21236,56655.8,1042.0
+Taylor Heights,Harford/Echodale,16839,21236,56655.8,1042.0
+Armistead Gardens,Claremont/Armistead,8231,21237,34885.4,1184.0
+Orchard Ridge,Claremont/Armistead,8231,21237,34885.4,1184.0
+Pleasant View Gardens,Orangeville/E. Highlandtown,10021,21237,19374.1,1184.0
+Baltimore Highlands,Orangeville/East Highlandtown,9131,21237,54511.4,1184.0
+Bayview,Orangeville/East Highlandtown,9131,21237,54511.4,1184.0
+Eastwood,Orangeville/East Highlandtown,9131,21237,54511.4,1184.0
+Greektown,Orangeville/East Highlandtown,9131,21237,54511.4,1184.0
+Hopkins Bayview,Orangeville/East Highlandtown,9131,21237,54511.4,1184.0
+Kresson,Orangeville/East Highlandtown,9131,21237,54511.4,1184.0
+Orangeville,Orangeville/East Highlandtown,9131,21237,54511.4,1184.0
+Orangeville Industrial Area,Orangeville/East Highlandtown,9131,21237,54511.4,1184.0
+Pulaski Industrial Area,Orangeville/East Highlandtown,9131,21237,54511.4,1184.0
+Belvedere,Chinquapin Park/Belvedere,7756,21239,55713.7,1044.0
+Cameron Village,Chinquapin Park/Belvedere,7756,21239,55713.7,1044.0
+Chinquapin Park,Chinquapin Park/Belvedere,7756,21239,55713.7,1044.0
+Evesham Park,Chinquapin Park/Belvedere,7756,21239,55713.7,1044.0
+Lake Walker,Chinquapin Park/Belvedere,7756,21239,55713.7,1044.0
+Mid-Govans,Chinquapin Park/Belvedere,7756,21239,55713.7,1044.0
+Glen Oaks,Loch Raven,15311,21239,52078.0,1044.0
+Idlewood,Loch Raven,15311,21239,52078.0,1044.0
+Loch Raven,Loch Raven,15311,21239,52078.0,1044.0
+Mt. Pleasant Park,Loch Raven,15311,21239,52078.0,1044.0
+Ramblewood,Loch Raven,15311,21239,52078.0,1044.0
+Woodbourne Heights,Loch Raven,15311,21239,52078.0,1044.0
+Hillen,Northwood,16643,21239,56197.2,1044.0
+Montebello,Northwood,16643,21239,56197.2,1044.0
+Morgan State University,Northwood,16643,21239,56197.2,1044.0
+New Northwood,Northwood,16643,21239,56197.2,1044.0
+Original Northwood,Northwood,16643,21239,56197.2,1044.0
+Perring Loch,Northwood,16643,21239,56197.2,1044.0
+Stonewood-Pentwood-Winston,Northwood,16643,21239,56197.2,1044.0
+Hillen,Northwood,16643,21251,56197.2,0.0
+Montebello,Northwood,16643,21251,56197.2,0.0
+Morgan State University,Northwood,16643,21251,56197.2,0.0
+New Northwood,Northwood,16643,21251,56197.2,0.0
+Original Northwood,Northwood,16643,21251,56197.2,0.0
+Perring Loch,Northwood,16643,21251,56197.2,0.0
+Stonewood-Pentwood-Winston,Northwood,16643,21251,56197.2,0.0
+CARE,Oldtown/Middle East,10021,21287,19374.1,0.0
+Dunbar-Broadway,Oldtown/Middle East,10021,21287,19374.1,0.0
+Gay Street,Oldtown/Middle East,10021,21287,19374.1,0.0
+Middle East,Oldtown/Middle East,10021,21287,19374.1,0.0
+Oldtown,Oldtown/Middle East,10021,21287,19374.1,0.0
+Penn-Fallsway,Oldtown/Middle East,10021,21287,19374.1,0.0
+Pleasant View Gardens,Oldtown/Middle East,10021,21287,19374.1,0.0
